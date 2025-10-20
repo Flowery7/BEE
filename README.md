@@ -1,1 +1,1 @@
-Here is a general website managed on behalf of the client by Merchant Services. For more information please contact support@merchant-web.co.uk
+Here is a general website managed by Merchant Services on behalf of the client. For more information please contact support@merchant-web.co.uk

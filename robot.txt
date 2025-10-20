@@ -4,7 +4,7 @@ Disallow: /admin/ # Block internal admin pages
 Disallow: /login/ # Block login page
 Disallow: /cart/ # Block cart pages
 Disallow: /checkout/ # Block checkout pages
-Disallow: /search/ # Block search result pages
+
 Disallow: /private/ # Block private content
 
 # Block URL parameters that create duplicate content
@@ -18,4 +18,4 @@ Allow: /assets/js/
 Allow: /images/
 
 # Sitemap location for better crawling and indexing
-Sitemap: https://www.
+Sitemap: https://dannybeesautokeys.co.uk
